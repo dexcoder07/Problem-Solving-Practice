@@ -1,0 +1,1 @@
+{"name":"Local: validatinganagrams","url":"/Users/satwikraj/Desktop/code/String practice/validatinganagrams.cpp","tests":[{"id":1631815453378,"input":"anagram\nnagaram","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/Users/satwikraj/Desktop/code/String practice/validatinganagrams.cpp","group":"local","local":true}
