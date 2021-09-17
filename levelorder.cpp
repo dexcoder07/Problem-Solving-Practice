@@ -9,7 +9,7 @@ struct Node
     Node* right;
 
     Node(int val)
-    {
+    {s
         data = val;
         left = NULL;
         right = NULL;
